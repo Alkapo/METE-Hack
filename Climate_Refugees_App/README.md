@@ -4,9 +4,8 @@
 
 ## Preview
 
-[![New Age Preview](https://startbootstrap.com/assets/img/screenshots/themes/new-age.png)](https://blackrockdigital.github.io/startbootstrap-new-age/)
+[![METEO-Hack Canada](https://ulavaldti-my.sharepoint.com/:i:/g/personal/alass21_ulaval_ca/EV9o4WW2ytRHlQuXUVXaj_oBoTkdITOoSzTowJKTZbtkDQ?e=RKZ9N9]
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-new-age/)**
 
 ## Status
 
