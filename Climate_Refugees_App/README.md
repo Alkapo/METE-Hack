@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![METEO-Hack Canada](https://ulavaldti-my.sharepoint.com/:i:/g/personal/alass21_ulaval_ca/EV9o4WW2ytRHlQuXUVXaj_oBoTkdITOoSzTowJKTZbtkDQ?e=RKZ9N9]
+![METEO-Hack Canada](https://github.com/Alkapo/METEO-Hack/tree/master/Climate_Refugees_App/img/Preview.png)
 
 
 ## Status
