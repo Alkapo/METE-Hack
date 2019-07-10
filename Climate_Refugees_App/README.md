@@ -1,12 +1,9 @@
-# [Start Bootstrap - New Age](https://startbootstrap.com/template-overviews/new-age/)
-
-[New Age](http://startbootstrap.com/template-overviews/new-age/) is a web app landing page theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
 ## Preview
 
 [METEO-Hack Canada](https://github.com/Alkapo/METEO-Hack/tree/master/Climate_Refugees_App/img/Preview.png)
-watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
-
+When disasters happen, people rely heavily on their cell phone to receive/exchange information. 
+Our App will be indispensable to both citizens and governments in hard times by giving prevention alerts and helping with the evacuation plans and logistics
 
 ## Copyright and License
 
